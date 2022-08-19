@@ -1,0 +1,9 @@
+.idea/
+target/
+src/proto
+.DS_Store
+rs,toml
+.vscode/
+node_modules/
+out.txt
+*.key
